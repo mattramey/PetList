@@ -1,0 +1,5 @@
+Joyce:5:black:female
+Dog:Judy:2:brown:female:labrador:true:false:true
+Bird:Gladys:44:red:female:crow:false:300
+Turtle:Beverly:34:green:female:water:true
+
