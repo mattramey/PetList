@@ -48,7 +48,7 @@ public class Dog extends Pet implements WalkMyPet {
 @Override
 public void walk(){// open walk()
 
-    System.out.println("Walk the dog named" + super.name);
+    System.out.println("Walk the dog named " + super.name);
 
 }// close walk()
 

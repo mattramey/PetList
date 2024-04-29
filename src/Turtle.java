@@ -22,11 +22,11 @@ private boolean needsWarmth;
 //override method
 @Override
 public void walk(){
-    System.out.println("The turtle named" + super.name + "swims.");
+    System.out.println("The turtle named " + super.name + " swims.");
 }
 
 
-// setters and getters
+// setter methods
 public String setHabitat(){
     return habitat;
 }

@@ -18,11 +18,11 @@ public class Bird extends Pet implements WalkMyPet{// open Bird class
 
 // override method
 public void walk(){
-    System.out.println("The bird name " + super.name + "is going on a flight");
+    System.out.println("The bird named " + super.name + " is going on a flight.");
 }
 
 
-// getter and setter methods
+//  setter methods
 
 public String setSpeciesType(){
     return speciesType;
